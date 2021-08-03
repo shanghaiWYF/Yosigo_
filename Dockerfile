@@ -1,1 +1,1 @@
-FROM quay.io/coreos/flannel:v0.14.0
+FROM k8s.gcr.io/kube-controller-manager:v1.21.3
