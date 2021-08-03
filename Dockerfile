@@ -1,1 +1,1 @@
-FROM kube-controller-manager:v1.21.3
+FROM kube-scheduler:v1.21.3
